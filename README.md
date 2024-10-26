@@ -1,9 +1,12 @@
 # Landing Page Project
 
-## Instructions
+This project is a dynamic and interactive **landing page** that builds a navigation bar programmatically, scrolls smoothly to page sections, and highlights the active section during scrolling. 
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## **Quickstart/Demo**
+**GitHub Pages Link:** [https://amerasaad.github.io/js-landing-page/]
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Development
+# Code Structure
+JavaScript (main.js): Contains the core logic for building the navigation, handling smooth scrolling, and setting active sections.
+HTML (index.html): Basic structure of the webpage, including sample sections for demonstration.
+CSS (styles.css): Basic styles to ensure the navigation and section highlighting works as expected.
