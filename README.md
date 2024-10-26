@@ -4,6 +4,7 @@ This project demonstrates DOM manipulation by dynamically generating a navigatio
 
 # Quickstart/Demo
 Clone this repository and open the `index.html` file in your browser to see the landing page in action. The navigation is built using JavaScript, and the page layout adapts based on section visibility.
+**GitHub Pages Link:** [https://amerasaad.github.io/js-landing-page/]
 
 # Table of Contents
 
@@ -12,6 +13,7 @@ Clone this repository and open the `index.html` file in your browser to see the 
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Development](#development)
 
 # Installation
 [(Back to top)](#table-of-contents)
@@ -29,10 +31,13 @@ Clone this repository and open the `index.html` file in your browser to see the 
 - Dynamic Navigation: The JavaScript code generates the navigation menu based on the sections in the HTML.
 - Smooth Scrolling: Click on any navigation link to smoothly scroll to the respective section.
 - Active Section Highlighting: The current section in the viewport is highlighted as you scroll.
-- 
+  
 # Development
+[(Back to top)]
 ## Code Structure
 - JavaScript (main.js): Contains the core logic for building the navigation, handling smooth scrolling, and setting active sections.
 - HTML (index.html): Basic structure of the webpage, including sample sections for demonstration.
 - CSS (styles.css): Basic styles to ensure the navigation and section highlighting works as expected.
+
+
 
