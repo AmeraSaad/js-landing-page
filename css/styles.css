@@ -47,11 +47,9 @@ p {
 
 /* ---- Layout Rules ---- */
 main {
-  margin-top: calc(10vh + var(--header-height, 0px));
-  /* Initial fallback */
+  margin: 10vh 1em 10vh;
   padding: 1em;
   transition: margin-top 0.3s ease;
-  /* Smooth transition when the header height changes */
 }
 .main-hero {
     min-height: 40vh;
